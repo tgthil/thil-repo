@@ -1,7 +1,8 @@
 
 
-C:\Users\Thilagar Kouriyam\git\thil-repo    *** in Dos cmd 
-/c/Users/Thilagar Kouriyam/git/thil-repo    *** in Git Bash
+C:\Users\Thilagar Kouriyam\git\thil-repo    *** path in Dos cmd 
+/c/Users/Thilagar Kouriyam/git/thil-repo    *** path in Git Bash
+
 
 > cd C:\Users\Thilagar Kouriyam\git\thil-repo
 > cd spring-boot-jwt     ---> newly created project folder
