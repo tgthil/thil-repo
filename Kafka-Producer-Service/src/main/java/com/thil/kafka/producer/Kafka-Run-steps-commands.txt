@@ -1,12 +1,13 @@
 1) To start Zookeeper Service :
 
-     	C:\softwares-installed\kafka>.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
-
+     	--C:\softwares-installed\kafka>.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+		C:\softwares-installed\kafka\bin\windows\zookeeper-server-start.bat C:\softwares-installed\kafka\config\zookeeper.properties
+		
 
 2)  To Start KAFKA Broker Service:
 
-	C:\softwares-installed\kafka>.\bin\windows\kafka-server-start.bat .\config\server.properties
-
+	--C:\softwares-installed\kafka>.\bin\windows\kafka-server-start.bat .\config\server.properties
+	C:\softwares-installed\kafka\bin\windows\kafka-server-start.bat C:\softwares-installed\kafka\config\server.properties
 
 
 3) Create a TOPIC to store your events:
